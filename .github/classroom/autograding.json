@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "TestHelloWorld",
+      "name": "HelloWorldTest",
       "setup": "",
       "run": "gradle test",
       "input": "",
