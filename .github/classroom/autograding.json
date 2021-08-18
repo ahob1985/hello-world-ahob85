@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "TestHelloWorld",
+      "name": "HelloWorldTest",
       "setup": "",
-      "run": "gradle test --tests TestHelloWorld",
+      "run": "gradle test",
       "input": "",
       "output": "",
       "comparison": "included",
